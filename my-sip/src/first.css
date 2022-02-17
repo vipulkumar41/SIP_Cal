@@ -1,0 +1,102 @@
+.first{
+    width:60%;
+    height: 40%;
+    border-radius: 3px;
+    box-shadow: 5px 5px 10px 5px rgb(0 0 0 / 6%);
+    border: rgb(179, 168, 168);
+    background-color: white  ;
+    position:absolute;
+    left:400px;
+    top:80px;
+}
+.div1{
+    position:absolute;
+    left:45px;
+    top:3px;
+    border-bottom: 1px solid rgb(235, 224, 224);
+    padding: 10px;
+    margin: 0;
+
+}
+.div2{
+    position:absolute;
+    width: 40%;
+    left:40px;
+    top:73px;
+    border-bottom: 1px solid rgb(235, 224, 224);
+    padding: 10px;
+    margin: 5px;
+}
+.div3{
+    position:absolute;
+    left:40px;
+    top: 143px;
+    border: rgb(0, 0, 0) !important;
+    padding: 10px;
+    margin: 5px;
+}
+p{
+    font: bold;
+    font-size: 75%  ;
+    margin-top: 1px;
+    padding: 0;
+}
+h3{
+    margin: 0;
+    padding: 0;
+}
+.image1{
+    position:absolute;
+    left:15px;
+    top:20px;
+}
+.image2{
+    position:absolute;
+    left:15px;
+    top:95px;
+}
+.image3{
+    position:absolute;
+    left:15px;
+    top:165px;
+}
+.link {
+    color: rgb(15, 15, 15);
+    text-decoration: none;
+  }
+   .side{
+      position: absolute;
+      height: 100%;
+      width: 17%;
+      background-color:  #0776f556;
+  }
+  .nav{
+    position: absolute;
+    height: 8%;
+    width: 100%;
+    background-color: rgb(0, 101, 184);
+  }
+  .uti{
+    text-decoration: none;
+    color:black;
+    font-size: 17px;
+    margin: -37px 240px;
+    cursor: pointer;
+  }
+  .settings
+  {
+    text-decoration: none;
+    color:black;
+    font-size: 17px;
+    margin: 17px ;
+    margin-left: 1100px;
+    cursor: pointer;
+  }
+  .demo{
+    text-decoration: none;
+    color:black;
+    font-size: 17px;
+    margin: -38px ;
+    margin-left: 1220px;
+    cursor: pointer;
+  }
